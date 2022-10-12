@@ -5,6 +5,7 @@ https://www.codewars.com/kata/585d7d5adb20cf33cb000235/train/python
 def find_uniq(arr):
     """
     Time complexity: O(n)
+    Space complexity: O(1)
     """
     a, b, c = arr[:3]
     n = b
@@ -18,6 +19,7 @@ def find_uniq(arr):
 def find_uniq(arr):
     """
     Summary time complexity: O(2*n)
+    Space complexity: O(n)
     """
     a, b = set(arr) # O(n)
     return a if arr.count(a) == 1 else b # O(n)
