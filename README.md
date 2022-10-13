@@ -11,9 +11,12 @@ Solved tasks:
 ### Day 3
 Solved tasks:
 * `task04.py`
-### Day 4:
+### Day 4
 Solved tasks:
 * `task05.py`
 * `task06.py`
+### Day 5
+Solved tasks:
+* `task07.py`
 ---
-**Total solved tasks: 6**
+**Total solved tasks: 7**
