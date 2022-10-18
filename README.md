@@ -21,5 +21,8 @@ Solved tasks:
 ### Day 6
 Solved tasks:
 * `task08.py`
+### Day 7
+Solved tasks:
+* `task10.py`
 ---
-**Total solved tasks: 8**
+**Total solved tasks: 9**
